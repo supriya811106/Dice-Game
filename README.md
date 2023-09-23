@@ -25,4 +25,4 @@ A simple and fun game where two players roll a dice, and the player with the hig
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/supriya811106/dice-game.git
+   git clone https://github.com/supriya811106/Dice-Game.git
