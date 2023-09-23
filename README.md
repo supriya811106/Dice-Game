@@ -2,7 +2,7 @@
 
 A simple and fun game where two players roll a dice, and the player with the higher number wins.
 
-![Dice Game Screenshot](screenshot.png) <!-- You can replace 'screenshot.png' with the path to an actual screenshot of your game -->
+![Dice Game Screenshot](https://github.com/supriya811106/Dice-Game/assets/89856408/85458315-5fa6-4706-ac86-8c805aee5fd4) <!-- You can replace 'screenshot.png' with the path to an actual screenshot of your game -->
 
 ## How to Play
 
