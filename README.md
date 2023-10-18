@@ -9,7 +9,7 @@ A simple and fun game where two players roll a dice, and the player with the hig
 Click the link above to experience the live version of the Dice Game website.
 
 ## How to Play
-1. Open the game in a browser by clicking [here](https://enjoy-dice-game.netlify.app/). .
+1. Open the game in a browser by clicking [here](https://enjoy-dice-game.netlify.app/).
 2. The game automatically rolls dice for two players.
 3. The player with the higher roll wins! If it's a tie, then it's a draw.
 
