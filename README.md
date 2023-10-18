@@ -4,9 +4,12 @@ A simple and fun game where two players roll a dice, and the player with the hig
 
 ![Dice Game Screenshot](https://github.com/supriya811106/Dice-Game/assets/89856408/85458315-5fa6-4706-ac86-8c805aee5fd4) <!-- You can replace 'screenshot.png' with the path to an actual screenshot of your game -->
 
-## How to Play
+## 🌍 [Live Demo](https://enjoy-dice-game.netlify.app/)
 
-1. Open the game in a browser.
+Click the link above to experience the live version of the Dice Game website.
+
+## How to Play
+1. Open the game in a browser by clicking [here](https://enjoy-dice-game.netlify.app/). .
 2. The game automatically rolls dice for two players.
 3. The player with the higher roll wins! If it's a tie, then it's a draw.
 
